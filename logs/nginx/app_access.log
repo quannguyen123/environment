@@ -1,0 +1,6 @@
+192.168.192.1 - - [26/Feb/2020:11:32:00 +0000] "GET / HTTP/1.1" 200 40 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
+192.168.192.1 - - [26/Feb/2020:11:32:00 +0000] "GET /robots.txt?1582716720556 HTTP/1.1" 200 40 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
+192.168.192.1 - - [26/Feb/2020:11:32:00 +0000] "GET /favicon.ico HTTP/1.1" 200 40 "http://project2.test:8001/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
+192.168.192.1 - - [26/Feb/2020:11:32:04 +0000] "GET / HTTP/1.1" 200 40 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
+192.168.192.1 - - [26/Feb/2020:11:32:04 +0000] "GET /robots.txt?1582716724872 HTTP/1.1" 200 40 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
+192.168.192.1 - - [26/Feb/2020:11:32:05 +0000] "GET /favicon.ico HTTP/1.1" 200 40 "http://project1.test:8001/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36"
